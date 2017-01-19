@@ -1,0 +1,7 @@
+div div div .nav-sidebar li a {color:black;}
+div div div .nav-sidebar li:hover a {background-color: #dbdbe4;}
+.sidebar {background-color: #eaeaf7;}
+.container-fluid {margin-bottom: 11px;}
+.cms_menu h3 {color:black;}
+.cms_menu:hover {background-color:#EAEAF7;}
+.cms_menu_img{width:200px;  height: 200px;}

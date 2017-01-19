@@ -1,0 +1,28 @@
+.searchForm {background-color: #0FA6BC;}
+#main_searchBox {border: 2px solid #0FA6BC; color: white; font-size: 15pt; background-color:#16CBE6;
+margin-top: 0;}
+
+#main_searchBox::-webkit-input-placeholder {
+   color: white;
+}
+
+#main_searchBox:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+#main_searchBox::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+#main_searchBox:-ms-input-placeholder {  
+   color: white;  
+}
+
+.container_search{width: 100%; margin: 0px;}
+
+.search_results {background-color: #0FA6BC; color: white; display: none;}
+.search_result_div {color: white;}
+.search_result_div:hover {background-color: #16CBE6;}
+.search_result_div img {width: 50px; height: 60px; }
+
+.whatsnew {font-size: 25pt;}
